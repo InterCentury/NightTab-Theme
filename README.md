@@ -8,7 +8,7 @@ A clean, minimal, and productivity-focused NightTab theme designed for a modern 
 
 ## Installation
 
-1. Download `theme.json`
+1. Download `NightTab_Theme_by_BinaryOxide_v0.json`
 2. Open NightTab
 3. Go to Settings → Backup
 4. Click Import and select the file
