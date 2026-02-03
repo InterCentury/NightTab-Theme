@@ -1,4 +1,4 @@
-# BinaryOxide NightTab Theme
+# clean translucent NightTab Theme
 
 A clean, minimal, and productivity-focused NightTab theme designed for a modern desktop setup.
 
