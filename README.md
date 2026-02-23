@@ -13,10 +13,3 @@ A clean, minimal, and productivity-focused NightTab theme designed for a modern 
 3. Go to Settings → Backup
 4. Click Import and select the file
 
-## Notes
-
-Free to use. Custom designed by BinaryOxide.
-=======
-# NightTab-Theme-by-BinaryOxide
-A professionally designed NightTab theme, offering a clean and organized interface.
-
